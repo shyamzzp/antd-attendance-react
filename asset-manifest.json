@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/attendance/static/css/main.7b9ee055.chunk.css",
-    "main.js": "/attendance/static/js/main.5e48ef56.chunk.js",
-    "main.js.map": "/attendance/static/js/main.5e48ef56.chunk.js.map",
-    "runtime-main.js": "/attendance/static/js/runtime-main.f7bb9b1d.js",
-    "runtime-main.js.map": "/attendance/static/js/runtime-main.f7bb9b1d.js.map",
-    "static/css/2.d788185a.chunk.css": "/attendance/static/css/2.d788185a.chunk.css",
-    "static/js/2.d594be38.chunk.js": "/attendance/static/js/2.d594be38.chunk.js",
-    "static/js/2.d594be38.chunk.js.map": "/attendance/static/js/2.d594be38.chunk.js.map",
-    "index.html": "/attendance/index.html",
-    "precache-manifest.305fcc9887d27b053fe23637df6c4c8b.js": "/attendance/precache-manifest.305fcc9887d27b053fe23637df6c4c8b.js",
-    "service-worker.js": "/attendance/service-worker.js",
-    "static/css/2.d788185a.chunk.css.map": "/attendance/static/css/2.d788185a.chunk.css.map",
-    "static/css/main.7b9ee055.chunk.css.map": "/attendance/static/css/main.7b9ee055.chunk.css.map",
-    "static/js/2.d594be38.chunk.js.LICENSE.txt": "/attendance/static/js/2.d594be38.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/attendance/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/antd-attendance-react/static/css/main.7b9ee055.chunk.css",
+    "main.js": "/antd-attendance-react/static/js/main.123cb8ff.chunk.js",
+    "main.js.map": "/antd-attendance-react/static/js/main.123cb8ff.chunk.js.map",
+    "runtime-main.js": "/antd-attendance-react/static/js/runtime-main.247c31f4.js",
+    "runtime-main.js.map": "/antd-attendance-react/static/js/runtime-main.247c31f4.js.map",
+    "static/css/2.d788185a.chunk.css": "/antd-attendance-react/static/css/2.d788185a.chunk.css",
+    "static/js/2.d594be38.chunk.js": "/antd-attendance-react/static/js/2.d594be38.chunk.js",
+    "static/js/2.d594be38.chunk.js.map": "/antd-attendance-react/static/js/2.d594be38.chunk.js.map",
+    "index.html": "/antd-attendance-react/index.html",
+    "precache-manifest.20a29086a8cc1c882b9be22d903fda6b.js": "/antd-attendance-react/precache-manifest.20a29086a8cc1c882b9be22d903fda6b.js",
+    "service-worker.js": "/antd-attendance-react/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/antd-attendance-react/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.7b9ee055.chunk.css.map": "/antd-attendance-react/static/css/main.7b9ee055.chunk.css.map",
+    "static/js/2.d594be38.chunk.js.LICENSE.txt": "/antd-attendance-react/static/js/2.d594be38.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/antd-attendance-react/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7bb9b1d.js",
+    "static/js/runtime-main.247c31f4.js",
     "static/css/2.d788185a.chunk.css",
     "static/js/2.d594be38.chunk.js",
     "static/css/main.7b9ee055.chunk.css",
-    "static/js/main.5e48ef56.chunk.js"
+    "static/js/main.123cb8ff.chunk.js"
   ]
 }
