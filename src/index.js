@@ -2,10 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Attendance from './Attendance/AttendanceController';
+import App from './App'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-    <Attendance name="attendance"/>,
+    <App/>,
   document.getElementById('root')
 );
 
